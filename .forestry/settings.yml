@@ -40,7 +40,7 @@ sections:
 - type: directory
   path: src/pages/posts
   label: Post
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - post
