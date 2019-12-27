@@ -5,10 +5,6 @@ subtitle: >-
   The style guide is also a great reference for suggested typographic treatment
   and styles for your content.
 img_path: images/6.jpg
-menus:
-  main:
-    title: Style Guide
-    weight: 3
 template: page
 ---
 
