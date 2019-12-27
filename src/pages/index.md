@@ -7,13 +7,10 @@ sections:
     section_id: intro
     component: Intro
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      Welcome to the official Say no to Mowlands site. We are opposing the building of a 1500 home new estate on meadowlands, for more information click the learn more below
     actions:
       - label: Learn More
-        url: /about
+        url: /purpose
 menus:
   main:
     title: Home
