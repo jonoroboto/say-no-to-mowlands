@@ -1,9 +1,9 @@
 {
-  "title": "Stackbit Ampersand Theme",
+  "title": "KARA",
   "layout_style": "list",
   "palette": "green",
   "header": {
-    "title": "Ampersand",
+    "title": "Say no to mowlands",
     "logo_img": "images/logo.svg",
     "has_nav": true
   },
@@ -11,8 +11,8 @@
     "content": "&copy; All rights reserved.",
     "links": [
       {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
+        "text": "With 💚 from Roboto Studio",
+        "url": "https://roboto.studio",
         "new_window": true
       }
     ],
