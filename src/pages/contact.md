@@ -8,4 +8,4 @@ menus:
 template: contact
 ---
 
-Fill the form below to get in touch with me.
+Fill the form below to get in touch with us.
