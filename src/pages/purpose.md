@@ -1,7 +1,7 @@
 ---
 title: Our Purpose
 subtitle: ''
-img_path: images/about.jpg
+img_path: "/images/field_of_wheat.jpg"
 menus:
   main:
     title: Purpose
