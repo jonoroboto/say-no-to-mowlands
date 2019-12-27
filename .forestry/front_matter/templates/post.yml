@@ -37,6 +37,7 @@ fields:
   config:
     required: true
 pages:
+- src/pages/posts/appointment-of-planning-inspector-for-adc-local-plan.md
 - src/pages/posts/kara-agm.md
 - src/pages/posts/national-petition-against-housing-development-on-greenfield-sites.md
 - src/pages/posts/notice-of-submission-of-the-ashfield-local-plan-development-plan.md
