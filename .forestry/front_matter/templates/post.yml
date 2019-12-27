@@ -37,4 +37,5 @@ fields:
   config:
     required: true
 pages:
+- src/pages/posts/kara-agm.md
 - src/pages/posts/national-petition-against-housing-development-on-greenfield-sites.md
