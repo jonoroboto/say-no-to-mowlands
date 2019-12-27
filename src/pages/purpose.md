@@ -7,14 +7,10 @@ menus:
     title: Purpose
     weight: 2
 template: page
+
 ---
+**Kirkby Area Residents Association (KARA)** has produced this website, in response to _planning application V/2014/0664_ by W Westerman Limited referred to as the **Mowlands Development**. This application seeks approval from Ashfield District Council to build 1800 new houses which will completely cover Kirkby’s western boundary running from A38 to Pinxton Lane. This land is currently high quality agricultural fields producing much needed crops.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+In addition to Westermans plans, Ashfield D.C. has recently included part of the proposed Mowlands Development land into its own Local Plan Preferred Approach. What this effectively means is they would change the classification from Countryside to Development Land thus opening the door to developers.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
-
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+Its KARA’s belief that neither of the two proposals are sustainable, justified and in the best interests of existing Ashfield residents.
