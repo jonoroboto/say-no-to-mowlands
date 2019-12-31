@@ -18,6 +18,16 @@ export default class Body extends React.Component {
                     <meta name="viewport" content="width=device-width"/>
                     <meta name="google" content="notranslate" />
                     <link rel="icon" href="/images/favicon.png" type="image/x-icon"/>
+
+                    <meta name="image" content="/images/og_image.png" />
+                    <meta property="og:title" content="Say no to Mowlands" />
+                    <meta property="og:description" content="This website is part of a co-ordinated response by concerned local residents following an attempt to build 1,800 houses on the most productive/highest graded farmland in the Ashfield area." />
+                    <meta property="og:image" content="/images/og_image.png" />
+                    <meta name="twitter:title" content="Say no to Mowlands" />
+                    <meta name="twitter:description" content="This website is part of a co-ordinated response by concerned local residents following an attempt to build 1,800 houses on the most productive/highest graded farmland in the Ashfield area." />
+                    <meta name="twitter:card" content="summary_large_image" />
+                    <meta name="twitter:image" content="/images/og_image.png" />
+
                     <link rel="stylesheet" href={safePrefix('assets/css/main.css')}/>
                     {(_.get(this.props, 'pageContext.frontmatter.template') === 'post') &&  
                     _.get(this.props, 'pageContext.frontmatter.canonical_url') && 
