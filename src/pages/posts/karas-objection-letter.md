@@ -6,7 +6,7 @@ date: "2016-03-27"
 
 [Click here to view KARAs objection letter to Ashfield DC. proposed perferred option local plan
 
-![Document Papers](http://saynotomowlands.com/wp-content/uploads/2016/03/document-1024x576.jpg)](http://saynotomowlands.com/wp-content/uploads/2016/03/KARA_LocalPlanReps_Mar2016_v02.pdf)
+![Document Papers](/images/document-1024x576.jpg)](/images/KARA_LocalPlanReps_Mar2016_v02.pdf)
 
 * * *
 

@@ -6,7 +6,7 @@ date: "2016-11-30"
 
 [Click here to download KARAs latest objection template to Ashfield DC. Published Local Plan
 
-![Document Papers](http://saynotomowlands.com/wp-content/uploads/2016/03/document-1024x576.jpg)](http://saynotomowlands.com/wp-content/uploads/2016/11/Objection-Template-rev-2.docx)
+![Document Papers](/images/document-1024x576.jpg)](http://saynotomowlands.com/wp-content/uploads/2016/11/Objection-Template-rev-2.docx)
 
 **KARA would like to thank all those Ashfield residents who attended last nights meeting despite the sub zero temperatures!**
 

@@ -8,4 +8,4 @@ KARA has submitted its objection letter to Ashfield D.C.  relating its proposal
 
  
 
-[kara\_publicationlocalplanreps\_dec2016\_v02](http://saynotomowlands.com/wp-content/uploads/2016/12/KARA_PublicationLocalPlanReps_Dec2016_v02.pdf)
+[kara\_publicationlocalplanreps\_dec2016\_v02](/images/KARA_PublicationLocalPlanReps_Dec2016_v02.pdf)

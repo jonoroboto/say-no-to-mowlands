@@ -8,4 +8,4 @@ Here are two photos taken at two different road junctions (Hamilton Rd/Sherwood 
 
  
 
-[![car_4](http://saynotomowlands.com/wp-content/uploads/2016/12/car_4.jpg)](http://saynotomowlands.com/wp-content/uploads/2016/12/car_4.jpg) [![car_3](http://saynotomowlands.com/wp-content/uploads/2016/12/car_3.jpg)](http://saynotomowlands.com/wp-content/uploads/2016/12/car_3.jpg)
+[![car_4](/images/car_4.jpg)](/images/car_4.jpg) [![car_3](/images/car_3.jpg)](/images/car_3.jpg)
