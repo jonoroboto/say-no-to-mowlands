@@ -15,9 +15,9 @@ export default class Body extends React.Component {
                     <title>{_.get(this.props, 'pageContext.frontmatter.title') && _.get(this.props, 'pageContext.frontmatter.title') + ' - '}{_.get(this.props, 'pageContext.site.siteMetadata.title')}</title>
                     <meta name="description" content="This website is part of a co-ordinated response by concerned local residents following an attempt to build 1,800 houses on the most productive/highest graded farmland in the Ashfield area."/>
                     <meta charSet="utf-8"/>
-                    <meta name="viewport" content="width=device-width, initialScale=1.0" />
+                    <meta name="viewport" content="width=device-width"/>
                     <meta name="google" content="notranslate" />
-                    {/* <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700%7CPT+Serif:400,700" rel="stylesheet"/> */}
+                    <link rel="icon" href="/images/favicon.png" type="image/x-icon"/>
                     <link rel="stylesheet" href={safePrefix('assets/css/main.css')}/>
                     {(_.get(this.props, 'pageContext.frontmatter.template') === 'post') &&  
                     _.get(this.props, 'pageContext.frontmatter.canonical_url') && 
