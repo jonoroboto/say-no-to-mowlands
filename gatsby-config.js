@@ -37,6 +37,21 @@ module.exports = {
                 pageContextProperty: `menus`,
                 menus: require('./src/data/menus.json'),
             }
-        }
+        },
+        {
+            resolve: `gatsby-plugin-prefetch-google-fonts`,
+            options: {
+              fonts: [
+                {
+                  family: `PT Sans`,
+                  variants: [`400`, `700`]
+                },
+                {
+                  family: `PT Serif`,
+                  variants: [`400`, `700`]
+                },
+              ],
+            },
+          }
     ]
 };
